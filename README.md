@@ -31,7 +31,7 @@ I'm a gamer, anime fan, indie Web and Mobile developer, and also an Applied Math
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feligx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
-  ## 💰You can help me by Donating on my Ko-Fi!
+  ## You can help me by Donating on my Ko-Fi!
   If you ever find helpful or simply enjoy any of my projects, and wish to help me, then **THANKS!** and you can through my Ko-Fi.
   
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/feligx) 
