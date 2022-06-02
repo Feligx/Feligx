@@ -34,7 +34,6 @@ I'm a gamer, anime fan, indie Web and Mobile developer, and also an Applied Math
   ## You can help me by Donating on my Ko-Fi!
   If you ever find helpful or simply enjoy any of my projects, and wish to help me, then **THANKS!** and you can through my Ko-Fi.
   
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/feligx) 
-
+<p align="center"><a href='https://ko-fi.com/feligx' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></p>
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
